@@ -1,7 +1,5 @@
 H:\>wmic product get name
 Name
-Windows PC Health Check
-Microsoft Teams Meeting Add-in for Microsoft Office
 Office 16 Click-to-Run Extensibility Component
 Office 16 Click-to-Run Localization Component
 Office 16 Click-to-Run Extensibility Component 64-bit Registration
@@ -12,7 +10,6 @@ Trend Micro Apex One Security Agent
 MSXML 4.0 SP3 Parser
 Microsoft .NET Runtime - 6.0.33 (x64)
 Intel(R) Management Engine Driver
-Microsoft Update Health Tools
 Microsoft Visual C++ 2022 X86 Additional Runtime - 14.38.33135
 Teams Machine-Wide Installer
 Microsoft Visual C++ 2022 X64 Additional Runtime - 14.38.33135
@@ -37,4 +34,5 @@ Microsoft .NET Host - 6.0.33 (x64)
 Dell SupportAssist
 TeamViewer Host
 Google Chrome
+Microsoft Update Health Tools
 RstDowngradeGuard
