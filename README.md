@@ -1,5 +1,6 @@
 H:\>wmic product get name
 Name
+Microsoft Teams Meeting Add-in for Microsoft Office
 Office 16 Click-to-Run Extensibility Component
 Office 16 Click-to-Run Localization Component
 Office 16 Click-to-Run Extensibility Component 64-bit Registration
